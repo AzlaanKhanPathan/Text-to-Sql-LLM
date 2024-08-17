@@ -1,3 +1,8 @@
+To create this text-to-sql LLM you first need to create an virtual environment in your local machine using any of these application :
+anaconda 
+virtual environment module 
+
+Following are the libraries used to build this LLM Model 
 streamlit
 google-generativeai
 python-dotenv
