@@ -18,7 +18,7 @@ git clone https://github.com/yourusername/text-to-sql-llm.git
 bash
 Copy code
 cd text-to-sql-llm
-Install the necessary dependencies:
+* Install the necessary dependencies:
 bash
 Copy code
 pip install -r requirements.txt
